@@ -14,9 +14,13 @@ Abaixo algumas informações
 
 ### 🎮 Projeto de Game
 
-<p align="center">  <img src="[assets/misc-infinity-cover.gif](https://github.com/vinialbsou/MiscInfinitySpaceship/blob/main/Addons%20Fantasy/Images/MiscInifinityIcon.png)" alt="Capa do Misc Infinity" width="600"/> </p>
 🕹️ [**Misc Infinity** – Jogue agora no Itch.io](https://vinialbsou.itch.io/misc-infinity)  
 Um jogo arcade espacial com ranking local e escolha de naves!
+<p align="center">
+  <a href="https://vinialbsou.itch.io/misc-infinity">
+    <img src="https://raw.githubusercontent.com/vinialbsou/godotGame/main/MiscInifinityIcon.png" alt="Capa do jogo Misc Infinity" width="600"/>
+  </a>
+</p>
 
 ### 👨‍💻Experiências Técnológicas 
 
