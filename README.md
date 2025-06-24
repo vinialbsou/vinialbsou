@@ -15,7 +15,8 @@ Abaixo algumas informações
 ### 🎮 Projeto de Game
 
 🕹️ [**Misc Infinity** – Jogue agora no Itch.io](https://vinialbsou.itch.io/misc-infinity)  
-Um jogo arcade espacial com ranking local e escolha de naves!
+Um jogo espacial 2D com ranking local!
+Escolha varios  tipode de naves e o estilo do laser e enfrente varios inimigos e poderosas naves em uma batalha sem fim.
 <p align="center">
   <a href="https://vinialbsou.itch.io/misc-infinity">
     <img src="https://raw.githubusercontent.com/vinialbsou/godotGame/main/MiscInifinityIcon.png" alt="Capa do jogo Misc Infinity" width="600"/>
@@ -53,4 +54,4 @@ Um jogo arcade espacial com ranking local e escolha de naves!
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vinialbsou&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vinialbsou&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vinialbsou)](https://git.io/streak-stats)
