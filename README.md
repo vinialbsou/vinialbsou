@@ -52,6 +52,13 @@ Escolha varios  tipode de naves e o estilo do laser e enfrente varios inimigos e
 
 ### 🐙Meu Github Status
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vinialbsou&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<p align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vinialbsou)](https://git.io/streak-stats)
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vinialbsou&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs" width="350" />
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=vinialbsou" alt="GitHub Streak" width="350" />
+  </a>
+
+</p>
+
