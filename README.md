@@ -10,7 +10,13 @@ Abaixo algumas informações
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:viniciusalberto.souza@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0366d6?style=for-the-badge&logo=linkedin&logoColor=#FFFFFF)](https://www.linkedin.com/in/vinícius-alberto-souza)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/viniciusalberto.souza)
-	[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinyalberto/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinyalberto/)
+
+### 🎮 Projeto de Game
+
+🕹️ [**Misc Infinity** – Jogue agora no Itch.io](https://vinialbsou.itch.io/misc-infinity)  
+Um jogo arcade espacial com ranking local e escolha de naves!
+
 ### 👨‍💻Experiências Técnológicas 
 
 <div style="display: inline_block"><br/>
